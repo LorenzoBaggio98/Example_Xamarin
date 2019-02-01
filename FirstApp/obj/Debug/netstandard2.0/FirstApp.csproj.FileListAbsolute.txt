@@ -1,0 +1,12 @@
+/Users/lorenzobaggio/C# Project/Xamarin/FirstApp/FirstApp/bin/Debug/netstandard2.0/FirstApp.deps.json
+/Users/lorenzobaggio/C# Project/Xamarin/FirstApp/FirstApp/bin/Debug/netstandard2.0/FirstApp.dll
+/Users/lorenzobaggio/C# Project/Xamarin/FirstApp/FirstApp/bin/Debug/netstandard2.0/FirstApp.pdb
+/Users/lorenzobaggio/C# Project/Xamarin/FirstApp/FirstApp/obj/Debug/netstandard2.0/FirstApp.csprojAssemblyReference.cache
+/Users/lorenzobaggio/C# Project/Xamarin/FirstApp/FirstApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/lorenzobaggio/C# Project/Xamarin/FirstApp/FirstApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/lorenzobaggio/C# Project/Xamarin/FirstApp/FirstApp/obj/Debug/netstandard2.0/FirstApp.csproj.CoreCompileInputs.cache
+/Users/lorenzobaggio/C# Project/Xamarin/FirstApp/FirstApp/obj/Debug/netstandard2.0/FirstApp.AssemblyInfoInputs.cache
+/Users/lorenzobaggio/C# Project/Xamarin/FirstApp/FirstApp/obj/Debug/netstandard2.0/FirstApp.AssemblyInfo.cs
+/Users/lorenzobaggio/C# Project/Xamarin/FirstApp/FirstApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/lorenzobaggio/C# Project/Xamarin/FirstApp/FirstApp/obj/Debug/netstandard2.0/FirstApp.dll
+/Users/lorenzobaggio/C# Project/Xamarin/FirstApp/FirstApp/obj/Debug/netstandard2.0/FirstApp.pdb
